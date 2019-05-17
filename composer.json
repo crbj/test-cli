@@ -1,0 +1,11 @@
+{
+    "name": "vstroilo/test-cli",
+    "description": "CLI who can say hello",
+    "type": "cli",
+    "license": "Apache License 2.0",
+    "require": {},
+    "bin": [
+        "./sayHi",
+        "./sayBye"
+    ]
+}
