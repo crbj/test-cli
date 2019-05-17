@@ -3,6 +3,7 @@
     "description": "CLI who can say hello",
     "type": "cli",
     "require": {},
+    "license": "Apache-2.0",
     "bin": [
         "./sayHi",
         "./sayBye"
